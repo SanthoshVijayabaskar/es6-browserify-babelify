@@ -1,5 +1,5 @@
 export default {
-    theProperty: 'is a string',
+    theProperty: 'import property returned',
     theFunction: () => {
         return 'the function returns this string';
     }
